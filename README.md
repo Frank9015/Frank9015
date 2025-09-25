@@ -23,11 +23,11 @@
 
 ## 📌 Proyectos destacados
 
-### 🟢 [InventPro – Backend](https://github.com/JavierHermosilla/inventPro-backend) *(Colaboración académica)*
-Backend de un sistema de **gestión de inventarios** para PYMES.  
-- **Stack:** Python, Django REST Framework, PostgreSQL (integración con frontend React).  
-- **Mi rol:** Desarrollo de endpoints REST, lógica de negocio y colaboración en integración con frontend.  
-- Estado: en fase de actualización y mejora.  
+### 🟢 [InventPro – Monorepo (Frontend + Backend)](https://github.com/JavierHermosilla/inventPro-backend) *(Colaboración académica)*
+Sistema de **gestión de inventarios** para PYMES en un repositorio único que integra tanto el **backend** como el **frontend**.  
+- **Stack:** Node.js/Express (backend) + React (frontend) + PostgreSQL.  
+- **Mi rol:** desarrollo de endpoints, lógica de negocio y colaboración en la interfaz.  
+- **Fase actual:** integración completa de backend y frontend (fase 2).  
 ![InventPro Demo](#) <!-- reemplaza con captura o gif real -->
 
 ---
@@ -49,7 +49,7 @@ Backend de un sistema de **gestión de inventarios** para PYMES.
 #### ✅ CaosNews — Portal de noticias (Django)  
 **Proyectosemestral2023-django** — Proyecto web tipo portal/gestor de noticias.  
 - **Stack:** Python, Django, HTML/CSS, SQL.  
-- **Bases de datos:** en el repo aparece `db.sqlite3` para facilitar pruebas locales; **en el despliegue de la asignatura utilicé Oracle** (cx_Oracle + Oracle Instant Client).  
+- **Bases de datos:** en el repo aparece `db.sqlite3` para pruebas locales; **en el despliegue académico utilicé Oracle** (cx_Oracle + Oracle Instant Client).  
 - **Qué hice:** modelado de datos, integración con la base y funcionalidades CRUD para artículos.  
 🔗 https://github.com/Franko9015/Proyectosemestral2023-django
 
@@ -59,7 +59,7 @@ Backend de un sistema de **gestión de inventarios** para PYMES.
 
 ## 🛠 Otros prototipos y experimentos
 - **inventpro-frontend** — UI y dashboards con React + Vite + Tailwind (prototipo de gestión y reportes).  
-- **prototipo-inventpro2** — Prototipo de backend/API (Django REST / Python).  
+- **prototipo-inventpro2** — Prototipo de backend/API (Node/Express o similar).  
 - **Djangosportfit** — Proyecto experimental/academico en Django para gestión deportiva.  
 - Varias pruebas y ejercicios con **React, Vite, Ionic, TypeScript y SQL**: pequeños repos que muestran aprendizaje práctico.
 
