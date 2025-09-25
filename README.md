@@ -24,7 +24,7 @@ Repositorio backend de un sistema de **gestión de inventarios** para PYMES.
 - Desarrollo de **API REST con Django REST Framework**  
 - Integración con **frontend React** y base de datos PostgreSQL  
 - Proyecto actualmente en fase de actualización y mejora  
-![InventPro Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) <!-- reemplaza con captura o gif real -->
+![InventPro Demo](#) <!-- reemplaza con captura o gif real -->
 
 ---
 
@@ -32,7 +32,7 @@ Repositorio backend de un sistema de **gestión de inventarios** para PYMES.
 - **Prototipos con React + Vite:** explorando desarrollo frontend moderno y UI/UX  
 - **Proyectos migrados de [Franko9015](https://github.com/Franko9015)**: consolidando mis trabajos más relevantes en esta cuenta  
 
-![React Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- reemplaza con captura o gif real -->
+![React Demo](#) <!-- reemplaza con captura o gif real -->
 
 ---
 
